@@ -264,6 +264,19 @@ main > div > a:hover {
   height: 470px;
   background-color: #000000;
 }
+.video1 {
+  text-transform: capitalize;
+  text-align: center;
+}
+.video2 {
+  text-transform: capitalize;
+  text-align: center;
+}
+
+.titre-video {
+  margin-bottom: -100px;
+  border: 4mm ridge rgba(7, 133, 243, 0.6);
+}
 
 .jello-horizontal {
 	-webkit-animation: jello-horizontal 0.9s infinite both;
@@ -489,6 +502,9 @@ footer p {
 
   .popup {
     width: 80%;
+  }
+  .tableau {
+    margin-top:  100px;
   }
 }
 
