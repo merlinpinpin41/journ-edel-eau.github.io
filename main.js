@@ -1,4 +1,3 @@
-import { Analytics } from "@vercel/analytics/react"
 var swiper = new Swiper(".swiper", {
     effect: "coverflow",
     grabCursor: true,
