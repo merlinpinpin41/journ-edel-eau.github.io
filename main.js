@@ -1,3 +1,12 @@
+import { Analytics } from '@vercel/analytics/react';
+
+ReactDOM.createRoot(document.getElementById("root")).render(
+  <>
+    <Analytics />
+    <App />
+  </>
+);
+
 var swiper = new Swiper(".swiper", {
     effect: "coverflow",
     grabCursor: true,
