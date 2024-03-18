@@ -257,10 +257,13 @@ main > div > a:hover {
   position: relative;
   left: 50%;
   top: 100%;
+  transform: translate(-50%, -50%);
   margin-top: 400px;
   margin-bottom: -200px;
   width: 100%;
   height: 470px;
+  background-color: #000000;
+  z-index: -9999;
 }
 
 .jello-horizontal {
