@@ -535,4 +535,7 @@ footer p {
       top: 0;
       right: 110px;
     }
+    .popup {
+  height: 80%;
+}
 }
