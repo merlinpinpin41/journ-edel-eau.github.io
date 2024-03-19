@@ -537,7 +537,7 @@ footer p {
     }
     .popup {
   height: 80%;
-  margin-bottom: 80px ;
+  top: 40% ;
 }
 .close {
 	right: 120px;
