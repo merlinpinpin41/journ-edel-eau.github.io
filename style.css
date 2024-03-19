@@ -537,8 +537,9 @@ footer p {
     }
     .popup {
   height: 80%;
+  margin-bottom: 80px ;
 }
 .close {
-	right: 130px;
+	right: 120px;
 }
 }
