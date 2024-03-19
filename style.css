@@ -367,8 +367,6 @@ top: 60%;
   font-size: 30px;
   cursor: pointer;
   color: #000;
-  border: solid;
-  border-radius: 50%; 
 }
 
 #openPopup {
